@@ -2,14 +2,6 @@ import Reveal from "./Reveal";
 
 const ROLES = [
   {
-    role: "AI Quality & LLM Evaluation Analyst",
-    company: "Handshake AI",
-    date: "Jan 2026 – Present",
-    pills: ["LLM Evaluation", "Model Safety", "Prompt Testing"],
-    description:
-      "Evaluated AI-generated responses across diverse prompts using structured rubrics to improve model accuracy, coherence, and safety. Identified failure patterns and edge cases in LLM outputs.",
-  },
-  {
     role: "Go-to-Market (GTM) Engineer",
     company: "SODA.IO · New York City",
     date: "Jun 2025 – Present",
