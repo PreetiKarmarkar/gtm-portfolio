@@ -5,9 +5,9 @@ const ROLES = [
     role: "Go-to-Market (GTM) Engineer",
     company: "SODA.IO · New York City",
     date: "Jun 2025 – Present",
-    pills: ["15-Min Setup", "+25% Conversions", "2x Velocity"],
+    pills: ["3x Reply Rate", "+30% Pipeline", ">95% Routing"],
     description:
-      "Engineered 15-minute integration templates for developers that automatically piped test results into Soda Cloud dashboards for VPs, bridging technical proof with executive ROI. This removed trial setup friction, doubled enterprise deal velocity, and lifted trial-to-paid conversions by 25%.",
+      "Built outbound targeting on public regulatory filings and engineering content where companies disclose data quality failures, lifting reply rates 3x and qualified pipeline 30%. Automated lead sourcing end to end — AI qualification, enrichment, and routing across Clay and Salesforce — cutting AE research from 30 to 5 minutes per account and keeping routing accuracy above 95%.",
   },
   {
     role: "Go-to-Market & Product Lead",
